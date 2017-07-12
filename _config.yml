@@ -22,3 +22,5 @@ version:          0.0.1
 
 github:
   repo:           https://github.com/a8h1nay/a8h1nay.github.io
+
+excerpt_separator: "<!--excerpt-->"
