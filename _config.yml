@@ -9,16 +9,16 @@ permalink:        pretty
 title:            The Artisan.
 tagline:          'The Aesthetics and the craft.'
 description:      'Blog about the aesthetic - in metaphoric sense - in the craft. The crafts are pursuits and activities of the author in his daily life.'
-url:              http://lanyon.getpoole.com
+url:              http://a8h1nay.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Abhinay Thakur'
+  url:            http://a8h1nay.github.io
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/a8h1nay/a8h1nay.github.io
